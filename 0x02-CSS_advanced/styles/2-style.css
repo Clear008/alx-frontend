@@ -1,14 +1,15 @@
-/* Smoth transition while scrolling */
 html {
     scroll-behavior: smooth;
 }
+
 body {
-    color: #d16b6b;   
+    color: #161616;
 }
 
 a {
     color: #161616;
 }
+
 .visually-hidden {
     display: none;
 }
